@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap URL (optional, may not fetch with uppercase repo)
+Sitemap: https://brainboostknowledgehub.github.io/Brainboostknowledgehub/sitemap.xml
