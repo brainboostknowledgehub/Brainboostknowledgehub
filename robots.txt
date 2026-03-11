@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://brainboostknowledgehub.github.io/Brainboostknowledgehub/sitemap.xml
